@@ -11,6 +11,6 @@
 \contentsline {subsubsection}{Quest\IeC {\~o}es de dimensionamento}{1}{section*.7}
 \contentsline {section}{\numberline {2 }Comportamento}{1}{section.0.2}
 \contentsline {section}{\numberline {3 }Usabilidade}{1}{section.0.3}
-\contentsline {section}{\numberline {4 }Confiabilidade}{1}{section.0.4}
+\contentsline {section}{\numberline {4 }Confiabilidade}{2}{section.0.4}
 \contentsline {section}{\numberline {5 }Desempenho}{2}{section.0.5}
 \contentsline {section}{\numberline {6 }Quest\IeC {\~o}es de dimensionamento}{2}{section.0.6}
