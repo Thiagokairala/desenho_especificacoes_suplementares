@@ -7,3 +7,20 @@
 %·         Capacidade (por exemplo, o número de clientes ou transações que pode ser absorvido pelo negócio)
 
 %·         Utilização de recursos: número de funcionários, capacidade de memória dos sistemas etc.]
+O desempenho de um software pode ser medido por diversas métricas, para o projeto Chamada Parlamentar serão utilizadas as métricas de tempo de resposta de uma transação e capacidade de acessos simultaneos.
+
+\begin{itemize}
+
+	\item{Tempo de resposta de uma transação}
+
+		Nesta parte iremos separar o tempo de resposta em tempo médio e tempo máximo, para que assim possamos ter um referencial mais bem definido na hora de fazer a verificação e validação do sistema.
+
+		O tempo de resposta médio entre as transações do sistema deverá ser de 0.5 segundo, enquanto o tempo máximo para uma transação nao deve ser superior a 1 segundo.
+
+		Tendo em vista que as transações que envolvem o \textit{web service} da camara não estão sobre o controle da equipe de desenvolvimento do projeto, as transações que incluem acesso direto ao \textit{web service} não possuem tempo médio ou máximo de reposta.
+
+	\item{Número de acessos simultaneos}
+
+		O sistema deve ser capaz de suportar inicialmente 1000 acessos simultâneos, valor este que após os testes de estress ocorrerem pode ser aumentado.
+
+\end{itemize}
