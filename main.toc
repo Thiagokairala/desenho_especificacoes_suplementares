@@ -2,15 +2,15 @@
 \select@language {english}
 \select@language {brazil}
 \contentsline {section}{\numberline {1 }Introdu\IeC {\c c}\IeC {\~a}o}{1}{section.0.1}
-\contentsline {subsection}{\numberline {1 .1}Refer\IeC {\^e}ncias}{1}{subsection.0.1.1}
-\contentsline {section}{\numberline {2 }Posicionamento}{1}{section.0.2}
-\contentsline {subsection}{\numberline {2 .1}Descri\IeC {\c c}\IeC {\~a}o do Problema}{1}{subsection.0.2.1}
-\contentsline {subsection}{\numberline {2 .2}Senten\IeC {\c c}a de Posi\IeC {\c c}\IeC {\~a}o do Produto}{1}{subsection.0.2.2}
-\contentsline {section}{\numberline {3 }Descri\IeC {\c c}\IeC {\~a}o dos Envolvidos e dos Usu\IeC {\'a}rios}{1}{section.0.3}
-\contentsline {subsection}{\numberline {3 .1}Resumo dos Envolvidos}{1}{subsection.0.3.1}
-\contentsline {subsection}{\numberline {3 .2}Resumo dos Usu\IeC {\'a}rios}{1}{subsection.0.3.2}
-\contentsline {subsection}{\numberline {3 .3}Principais Necessidades dos Usu\IeC {\'a}rios ou dos Envolvidos}{1}{subsection.0.3.3}
-\contentsline {section}{\numberline {4 }Vis\IeC {\~a}o Geral do Produto}{1}{section.0.4}
-\contentsline {section}{\numberline {5 }Recursos do Produto}{1}{section.0.5}
-\contentsline {section}{\numberline {6 }Outros Requisitos do Sistema}{2}{section.0.6}
-\contentsline {section}{\numberline {7 }Modelagem dos Casos de Uso}{2}{section.0.7}
+\contentsline {subsection}{\numberline {1 .1}Escopo}{1}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {1 .2}Vis\IeC {\~a}o Geral}{1}{subsection.0.1.2}
+\contentsline {subsubsection}{Comportamento}{1}{section*.3}
+\contentsline {subsubsection}{Usabilidade}{1}{section*.4}
+\contentsline {subsubsection}{Confiabilidade}{1}{section*.5}
+\contentsline {subsubsection}{Desempenho}{1}{section*.6}
+\contentsline {subsubsection}{Quest\IeC {\~o}es de dimensionamento}{1}{section*.7}
+\contentsline {section}{\numberline {2 }Comportamento}{1}{section.0.2}
+\contentsline {section}{\numberline {3 }Usabilidade}{1}{section.0.3}
+\contentsline {section}{\numberline {4 }Confiabilidade}{1}{section.0.4}
+\contentsline {section}{\numberline {5 }Desempenho}{2}{section.0.5}
+\contentsline {section}{\numberline {6 }Quest\IeC {\~o}es de dimensionamento}{2}{section.0.6}

@@ -1,5 +1,25 @@
-%[Os requisitos de confiabilidade (do ponto de vista de um ator de negócio) da organização devem ser especificados aqui. Abaixo, algumas sugestões:
+A confiabilidade de um software pode ser medida desde por quanto tempo o mesmo ficará disponível até a veracidade de suas informações.
 
-%·         Disponibilidade - especifique o percentual de tempo disponível ( xx.xx%), horas de uso previstas etc.
+Para o projeto chamada parlamentar serão utilizadas as métricas de tempo de disponibilidade, precisão da informação, tempo entre as atualizações das informações do banco de dados e precisão matemática das contas estatísticas.
 
-%·          Exatidão - especifique a precisão (resolução) e exatidão (por meio de algum padrão conhecido) exigidas na saída.
+\begin{itemize} 
+
+	\item{Tempo de disponibilidade}
+
+		O sistema deve estar disponível por no mínimo 95,00\% do tempo gerando assim a confiança no usuário de que sempre poderá contar com a ferramenta.
+
+	\item{Precisão da informação}
+
+		A informação é garantida que seja verdadeira já que será retirada do \textit{web service} da camara dos deputados disponível pela lei dos dados abertos.
+
+	\item{Tempo entre as atualizações das informações}
+
+		As informações no banco de dados serão atualizadas diariamente durante a madrugada para evitar problemas de usuários tentando acessar o sistema e o mesmo apresentar informações incompletas.
+
+	\item{Precisão matemática}
+
+		O sistema garantirá aos usuários uma precisão matemática de duas casas decimais, e serão utilizados métodos para calcular comprovados por estudos matemáticos.
+
+		Infelizmente algumas informações de alguns parlamentares vem quebrada impossibilitando assim a realização das contas estatísticas do mesmo, assim sempre que houver um caso deste tipo o usuário será avisado qual deputado está fora de análise pelo sistema.
+
+\end{itemize}
