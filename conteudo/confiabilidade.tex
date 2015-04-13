@@ -1,6 +1,7 @@
-A confiabilidade de um software pode ser medida desde por quanto tempo o mesmo ficará disponível até a veracidade de suas informações.
 
-Para o projeto Chamada Parlamentar 2 serão utilizadas as métricas de tempo de disponibilidade, precisão da informação, tempo entre as atualizações das informações do banco de dados e precisão matemática das contas estatísticas.
+A confiabilidade de um software pode ser medida desde por quanto tempo o mesmo ficará disponível até a veracidade de suas informações. Outra forma de observar a confiabilidade do sistema é medindo o espaço de tempo entre um \textit{bug} e outro durante o funcionamento do sistema.
+
+Para o projeto \textit{Chamada Parlamentar 2} serão utilizadas as métricas de tempo de disponibilidade, precisão da informação, tempo entre as atualizações das informações do banco de dados e precisão matemática das contas estatísticas.
 
 \begin{itemize} 
 
@@ -10,16 +11,16 @@ Para o projeto Chamada Parlamentar 2 serão utilizadas as métricas de tempo de 
 
 	\item{Precisão da informação}
 
-		A informação é garantida que seja verdadeira já que será retirada do \textit{web service} da camara dos deputados disponível pela lei dos dados abertos.
+		A informação apresentada pelo sistema \textit{Chamada Parlamentar 2} possui um nível de precisão elevado, já que todos os dados utilizados na informação serão obtidos pelo \textit{WebService} da Câmara dos Deputados, disponível após a confirmação da lei dos dados abertos do Governo Federal.
 
 	\item{Tempo entre as atualizações das informações}
 
-		As informações no banco de dados serão atualizadas diariamente durante a madrugada para evitar problemas de usuários tentando acessar o sistema e o mesmo apresentar informações incompletas.
+		As informações no banco de dados serão atualizadas diariamente durante a madrugada para evitar problemas de usuários tentando acessar o sistema e o mesmo apresentar informações incompletas. Esta atualização ocorrerá todos os dias as 05:00 A.M..
 
 	\item{Precisão matemática}
 
-		O sistema garantirá aos usuários uma precisão matemática de duas casas decimais, e serão utilizados métodos para calcular comprovados por estudos matemáticos.
+		O sistema garantirá aos usuários uma precisão matemática de duas casas decimais, e todos os métodos de cálculo utilizados durante a geração da informação são comprovados matematicamente.
 
-		Infelizmente algumas informações de alguns parlamentares vem quebrada impossibilitando assim a realização das contas estatísticas do mesmo, assim sempre que houver um caso deste tipo o usuário será avisado qual deputado está fora de análise pelo sistema.
+		Infelizmente, algumas informações advindas do sistema de \textit{WebService} da Câmara dos Deputados possuem erros no padrão de dados, impossibilitando, assim a realização dos cálculos para obtenção das estatísticas do parlamentar ou partido. Dessa forma, sempre que houver um erro de padrão de dado do \textit{WebService}, uma mensagem explicando a situação será apresentada ao usuário de forma clara e simples.
 
 \end{itemize}

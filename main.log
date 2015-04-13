@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.10)  30 MAR 2015 22:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.3.10)  12 APR 2015 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1224,7 +1224,7 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 5.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \vbox (badness 10000) detected at line 36
+Underfull \vbox (badness 10000) detected at line 38
  []
 
 )) [1] (./main.toc)
@@ -1235,21 +1235,21 @@ Underfull \vbox (badness 10000) detected at line 36
 
 ] (./conteudo/conteudo.tex (./conteudo/introducao.tex) (./conteudo/usabilidade.
 tex
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 8.
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 7.
-) (./conteudo/confiabilidade.texpdfTeX warning (ext4): destination with the sam
-e identifier (name{page.1}) has been already used, duplicate ignored
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 8.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.3 P
-     ara o projeto Chamada Parlamentar 2 serão utilizadas as métricas de t...
-[1]) (./conteudo/desempenho.tex) (./conteudo/questoes_dimensionamento.tex)) (./
-main.bblpdfTeX warning (ext4): destination with the same identifier (name{page.
-2}) has been already used, duplicate ignored
+l.19 
+      [1]) (./conteudo/confiabilidade.tex) (./conteudo/desempenho.tex) (./conte
+udo/questoes_dimensionamento.tex)) (./main.bblpdfTeX warning (ext4): destinatio
+n with the same identifier (name{page.2}) has been already used, duplicate igno
+red
 <to be read again> 
                    \relax 
 l.3 \begin{thebibliography}{}
@@ -1274,7 +1274,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
 Here is how much of TeX's memory you used:
  27740 strings out of 493304
  498655 string characters out of 6139871
- 805773 words of memory out of 5000000
+ 807773 words of memory out of 5000000
  30518 multiletter control sequences out of 15000+600000
  49683 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1288,7 +1288,7 @@ c/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (7 pages, 267599 bytes).
+Output written on main.pdf (7 pages, 272815 bytes).
 PDF statistics:
  139 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
